@@ -30,4 +30,8 @@ Desafio solicitado durante o processo seletivo da Superlógica Tecnologias
 </p>
 <p float="left">
   <img src="https://github.com/guilotmsc/superlogica-challenge-react-native/blob/master/assets/img/Screenshot_3.png" width="400" height="790">
+  <img src="https://github.com/guilotmsc/superlogica-challenge-react-native/blob/master/assets/img/Screenshot_4.png" width="400" height="790">
+</p>
+<p float="left">
+  <img src="https://github.com/guilotmsc/superlogica-challenge-react-native/blob/master/assets/img/Screenshot_5.png" width="400" height="790">
 </p>
